@@ -1,0 +1,24 @@
+.randomImage{
+    position: absolute;
+    top: 15px;
+    left: 10px;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.addACardText{
+    font-size: 60px;
+    text-align: center;
+    padding-left: 22px;
+}
+
+.clearButton{
+    background-color: red;
+    position: absolute;
+    top: 555px;
+    left: 15px;
+}
